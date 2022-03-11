@@ -1,0 +1,1 @@
+<ezpage vue-id="8dd740cc-1" title="说明" bind:__l="__l" vue-slots="{{['contentSection']}}"><view slot="contentSection"><view class="content_about">关于此项目：此项目参考，暂时为非完整项目<view class="_p">路径源地址：</view></view></view></ezpage>

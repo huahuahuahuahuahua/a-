@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "ezpage": "/components/ezpage",
+    "bookcell": "/components/dnms-ui/bookcell",
+    "ezshare": "/components/ezshare"
+  }
+}

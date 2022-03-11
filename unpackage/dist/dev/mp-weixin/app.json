@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/map/map",
+    "pages/books/books",
+    "pages/createbookshelf/createbookshelf",
+    "pages/bookshelf/bookshelf",
+    "pages/bookdetail/bookdetail",
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "iconPath": "static/tabicons/me_0.png",
+        "selectedIconPath": "static/tabicons/me_1.png",
+        "pagePath": "pages/home/home",
+        "text": "我的"
+      },
+      {
+        "iconPath": "static/tabicons/forum_0.png",
+        "selectedIconPath": "static/tabicons/forum_1.png",
+        "pagePath": "pages/books/books",
+        "text": "搜书"
+      },
+      {
+        "iconPath": "static/tabicons/map_0.png",
+        "selectedIconPath": "static/tabicons/map_1.png",
+        "pagePath": "pages/map/map",
+        "text": "地图"
+      },
+      {
+        "iconPath": "static/tabicons/nav_0.png",
+        "selectedIconPath": "static/tabicons/nav_1.png",
+        "pagePath": "pages/index/index",
+        "text": "关于"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
